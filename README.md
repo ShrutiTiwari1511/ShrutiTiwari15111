@@ -7,15 +7,9 @@
 
 - 🔭 I’m currently working on **Flutter-based mobile apps**
 
-- 🌱 I’m currently learning **Firebase, GetX, CI/CD, and clean architecture**
-
 - 👯 I’m looking to collaborate on **open source Flutter projects and real-world apps**
 
-- 💬 Ask me about **Flutter, Dart, Firebase, UI/UX, GitHub**
-
 - 📫 Reach me at **shruti.tiwari1888@gmail.com**
-
-- 📄 [View My Resume](#) <!-- Add your resume link here -->
 
 ---
 
@@ -31,6 +25,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShrutiTiwari1511&theme=radical&no-frame=true&margin-w=10&column=7" />
+</p>
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -41,13 +44,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShrutiTiwari1511&theme=radical&no-frame=true&margin-w=10&column=7" />
-</p>
-
----
 
 ## 🔗 Connect with me
 
