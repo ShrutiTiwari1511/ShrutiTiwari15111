@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
 <h3 align="center">Flutter Developer | Mobile App Enthusiast | Open Source Contributor</h3>
 
-<p align="center">
+<h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=ShrutiTiwari1511&label=Profile%20views&color=0e75b6&style=flat" alt="ShrutiTiwari1511" />
-</p>
+</h1>
 
 - 🔭 I’m currently working on **Flutter-based mobile apps**
 
